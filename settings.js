@@ -3,7 +3,7 @@ const settings = {
   author: '𝐌𝐚𝐬𝐤𝐲 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐓𝐞𝐜𝐡',
   botName: "𝗠𝗔𝗦𝗞𝗬 𝗠𝗗",
   botOwner: 'MASKY OFFICIAL TECH', // Your name
-  ownerNumber: '2348074548225', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '+93 72 273 5782', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
